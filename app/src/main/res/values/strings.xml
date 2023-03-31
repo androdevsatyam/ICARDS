@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ICARDS</string>
+    <string name="frame">frame</string>
+    <string name="previous">Previous</string>
+    <string name="save">Save</string>
+    <string name="next">Next</string>
+    <string name="qr_code">Qr Code</string>
+    <string name="id">IVC-M-1001</string>
+    <string name="name">Satyam Ojha</string>
+    <string name="designation">organiser</string>
+</resources>
